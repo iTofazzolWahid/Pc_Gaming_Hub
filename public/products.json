@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "The Witcher Wild Hunt",
+    "img": "https://image.api.playstation.com/vulcan/img/rnd/202009/3008/fng5HuTeBSFTJuPPP9G8byKQ.png",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Tiny Tina's Wonderlands",
+    "img": "https://image.api.playstation.com/vulcan/ap/rnd/202108/0511/LlliCE3d9KEmqBtqbn5VpCtJ.png",
+    "price": 90
+  },
+  {
+    "id": 3,
+    "name": "Elden Ring",
+    "img": "https://cdna.artstation.com/p/assets/images/images/043/897/516/large/seed-seven-twodots-seedseven-eldenring-1.jpg?1638544010",
+    "price": 70
+  },
+  {
+    "id": 4,
+    "name": "Lost Ark",
+    "img": "https://kgo.googleusercontent.com/profile_vrt_raw_bytes_1587514212_1078.jpg",
+    "price": 70
+  },
+  {
+    "id": 5,
+    "name": "Dying Light 2",
+    "img": "https://img.g2a.com/323x433/1x1x0/dying-light-2-pc-steam-key-europe/72dbef5e964740959610ce12",
+    "price": 50
+  },
+  {
+    "id": 6,
+    "name": "Yu Gi Oh! Master Duel",
+    "img": "https://asset.vg247.com/yu-gi-oh-master-duel-cross-save.jpg/BROK/thumbnail/1200x1200/quality/100/yu-gi-oh-master-duel-cross-save.jpg",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "name": "God of War",
+    "img": "https://assets1.ignimgs.com/2019/01/08/god-of-war-1---button-1546990917232.jpg",
+    "price": 70
+  },
+  {
+    "id": 8,
+    "name": "Monster Hunter Rise",
+    "img": "https://www.pdvg.it/wp-content/uploads/2020/09/monster-hunter-rise-cover.jpg",
+    "price": 55
+  },
+  {
+    "id": 9,
+    "name": "Halo Infinite",
+    "img": "https://assets-prd.ignimgs.com/2020/07/24/halo-infinite-button-2020-1595617876660.jpg",
+    "price": 85
+  },
+  {
+    "id": 10,
+    "name": "Forza Horizon 5",
+    "img": "https://games-download24.com/assets/uploads/upload_60f01b34becfa.jpg",
+    "price": 60
+  },
+  {
+    "id": 11,
+    "name": "Call of Duty: Vanguard",
+    "img": "https://www.mobygames.com/images/covers/l/775862-call-of-duty-vanguard-xbox-one-front-cover.jpg",
+    "price": 70
+  },
+  {
+    "id": 12,
+    "name": "Back 4 Blood",
+    "img": "https://cdn1.epicgames.com/57dfd95548214a138218e56cd9e5b9d8/offer/EGS_Back4BloodDeluxeEdition_TurtleRockStudios_Editions_S2-1200x1600-778ef3d69c5a8f87a9a4747199b6741a.jpg",
+    "price": 99
+  }
+]
